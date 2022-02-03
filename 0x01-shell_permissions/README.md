@@ -1,0 +1,1 @@
+En esta parte del proyecto nos centraremos en la parte de permisos de Shell
