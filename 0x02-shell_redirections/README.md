@@ -1,0 +1,1 @@
+Acá estoy trabajando con shell_redirections
