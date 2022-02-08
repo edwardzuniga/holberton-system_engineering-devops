@@ -1,2 +1,2 @@
 #!/bin/bash
-scriptf "$o.4\n" $NUM
+scriptf "2.31f\n" $NUM
