@@ -1,2 +1,2 @@
 #!/bin/bash
-export Golbal_BEST=School
+export Global_BEST="School"
