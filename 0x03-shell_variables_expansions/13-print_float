@@ -1,2 +1,2 @@
 #!/bin/bash
-scriptf "%2.31f\n" $NUM
+scriptf "%2.3f\n" $NUM
