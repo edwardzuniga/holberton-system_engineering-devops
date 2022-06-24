@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 time
+school=10
+until [ $school -lt 1 ];
+do
+    echo "Best School"
+    let school-=1
+done
